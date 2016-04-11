@@ -14,4 +14,4 @@ The icons are sourced from the <a href="https://thenounproject.com/">Noun Projec
 ## ravitch-credit.html
 A simple credit to include at the bottom of any post published through the project.
 
-If you're WDET staff and need to mark a post with this credit, switch the post text editor to Source, then copy/paste everything between the `<style>...</style>` and `<div>...</div>` tags one line below your content.
+If you're WDET staff and need to mark a post with this credit, switch the post text editor to Source, then copy/paste everything between the `<style>...</style>` and `<div class="ravitch">...</div>` tags one line below your content.
